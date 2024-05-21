@@ -1,0 +1,2 @@
+javac -cp ".;lib/pcap4j-core-1.8.2.jar;lib/jna-5.3.1.jar;lib/slf4j-api-1.7.6.jar" -d class src/StationClient.java src/SniffPacket.java
+java -cp ".;class;lib/pcap4j-core-1.8.2.jar;lib/jna-5.3.1.jar;lib/slf4j-api-1.7.6.jar" StationClient $args
