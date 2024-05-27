@@ -1,9 +1,13 @@
 
-# Intelligent Transport Systems Interaction Visualization Interface
+# Intelligent Transport Systems Interaction Visualization Software
 
 ## Overview
 
 This project is a Java-based application developed to visualize the communication between autonomous vehicles and infrastructures within intelligent transport systems (ITS). The application was developed as part of an internship at the LABI*, which is involved in the European InDiD project. The goal of this project is to study ITS communication systems, their coverage, efficiency, and architecture for a future large-scale deployment.
+
+## Demo
+
+https://github.com/killianc3/its-visualizer/assets/101042422/bcd78159-6022-44bb-afc0-25e5edbd08e3
 
 ## Usage
 - Data Acquisition: Start the data acquisition module to capture or load existing data.
